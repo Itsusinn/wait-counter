@@ -1,6 +1,6 @@
 [package]
 name = "wait-counter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A counter allow you to wait, and return when it reach 1"
 license = "Apache-2.0"

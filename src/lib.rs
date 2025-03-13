@@ -22,7 +22,7 @@ impl WaitCounter {
         }
     }
 
-    pub fn wake_clone(&self) -> Self {
+    pub fn weak_clone(&self) -> Self {
         Self {
             inner: self.inner.clone(),
         }
